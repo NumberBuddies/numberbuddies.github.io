@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://numberbuddies.github.io/</loc>
+    <lastmod>2026-03-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://numberbuddies.github.io/promo.png</image:loc>
+      <image:title>Number Buddies – Free Educational Math Game for Kids Ages 3–6</image:title>
+      <image:caption>Number Buddies app promotional image showing math games for preschoolers and kindergartners</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://numberbuddies.github.io/logo.png</image:loc>
+      <image:title>Number Buddies App Icon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://numberbuddies.github.io/privacy.html</loc>
+    <lastmod>2026-03-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>
